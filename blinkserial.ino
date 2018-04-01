@@ -1,7 +1,7 @@
 int led=13;
 int situa = 0; 
 int tempo=100;
-float tempo2;
+float tempo2=200;
 String inputString = "";          
 boolean stringCompleta = false;
 char letra;
