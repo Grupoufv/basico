@@ -52,13 +52,7 @@ void Leitura() {
     if (letra == '\n') {
       stringCompleta = true;
     }
-  /*  if(letra=='I'){
-       tempo2= (float)Serial.read();
-      }
-    if(inputString=="R"){
-       tempo=(int)Serial.read();
-      
-      }*/
+ 
     }
   }
 
